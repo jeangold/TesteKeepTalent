@@ -11,3 +11,5 @@ npm install --save-dev node-sass
 para abrir abri o projeto do agular 
 
 ng serve -o
+
+NO ARQUIVO .RAR ESTÃO API E O FRONT (ANGULAR) 
